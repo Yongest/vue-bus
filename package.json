@@ -1,5 +1,5 @@
 {
-  "name": "vue-bus",
+  "name": "@zhang_yong/vue-bus",
   "version": "1.0.0",
   "description": "npm install @zhangyong/vue-bus",
   "main": "index.js",
