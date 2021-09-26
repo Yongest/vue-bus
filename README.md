@@ -1,6 +1,6 @@
 # vue-bus
 
-@zhangyong/vue-bus ：用最简洁的代码解决Vue各各组件通讯的问题！
+@zhang_yong/vue-bus ：用最简洁的代码解决Vue各各组件通讯的问题！
 
 1.npm 下载
 
