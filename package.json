@@ -1,7 +1,7 @@
-{
+﻿{
   "name": "@zhang_yong/vue-bus",
-  "version": "1.0.0",
-  "description": "npm install @zhangyong/vue-bus",
+  "version": "1.0.1",
+  "description": "npm install @zhang_yong/vue-bus",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -10,7 +10,7 @@
     "type": "git",
     "url": "git+https://github.com/Yongest/vue-bus.git"
   },
-  "keywords": ["@zhangyong/vue-bus","vue-bus","中央事件总线"],
+  "keywords": ["@zhang_yong/vue-bus","vue-bus","中央事件总线"],
   "author": "张勇",
   "license": "ISC",
   "bugs": {

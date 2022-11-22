@@ -4,7 +4,7 @@
 
 1.npm 下载
 
-    npm install @zhang_yong/vue-bus -S
+    npm i @zhang_yong/vue-bus
 
 2.导入
 
